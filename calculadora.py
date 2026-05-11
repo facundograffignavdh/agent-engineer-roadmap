@@ -1,3 +1,5 @@
-def sumar (a, b): return a + b + 1
+def sumar(a, b): return a + b + 10
 
-def multiplicar (a, b): return a * b
+def restar(a, b): a - b
+
+def multiplicar(a, b): a * b
